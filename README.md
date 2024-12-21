@@ -1,8 +1,11 @@
 # CODETECH-TASK1
 
-Name:Chandan s
+Name:CHANDAN S
+
 ID:CT6WDS2492
+
 Domain:DATA SCIENCE
+
 Duration:NOV25TH TO JAN10 2025
 
 
